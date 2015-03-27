@@ -1,0 +1,1 @@
+this project is just for study, almost exclude any business logic code. however, your can get the basic practice experience about hibernate,spring,flex,balzeDS,puremvc,etc.wish you join us!
